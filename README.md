@@ -1,4 +1,4 @@
-## Go Shell Injector
+## Go shellcode injector
 
 You can learn this low-level programming thing from bolo's blog.  
 [Win32 Shellcode - Intro](https://blackcloud.me/Win32-shellcode-1/)  
